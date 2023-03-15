@@ -1,4 +1,4 @@
-<h1><a href="https://music-2021.ru/uploads/files/2021-06/1624206028_e-type-this-is-the-way.mp3">Запускай и изучай =)  ⏯️  </h1>
+<h1><a href="https://music-2021.ru/uploads/files/2021-06/1624206028_e-type-this-is-the-way.mp3" target="_blank">Запускай и изучай =)  ⏯️  </h1>
 
 
 <h1>
