@@ -38,13 +38,13 @@
   
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cybernO0b&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cybernO0b&theme=dark&background=000000)](#)
 
 
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybernO0b&layout=compact&theme=vision-friendly-dark&hide=less)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cybernO0b&layout=compact&theme=vision-friendly-dark&hide=less)](#)
   </h1>
 
 
@@ -53,5 +53,5 @@
 
 
 <div align="right">
-<img src="https://sirus.su/api/characters/9/2665452/bar.jpg"/>&nbsp;
+<img src="https://sirus.su/api/characters/9/2665452/bar.jpg"/>
   </div>
