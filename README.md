@@ -1,6 +1,3 @@
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1)
-
-
 <h1><a href="https://music-2021.ru/uploads/files/2021-06/1624206028_e-type-this-is-the-way.mp3" target="_blank">Запускай и изучай =)  ⏯️  </h1>
 
 
